@@ -1,0 +1,11 @@
+#define VID_Command 1
+#define VID_Action 2
+#define VID_Right 3
+#define VID_Left 4
+#define VID_Run 5
+#define VID_Walk 6
+#define VID_Fight 7
+#define VID_Stand 8
+#define VID_WalkSlowly 9
+#define VID_Dance 10
+#define VID_RunSlowly 11
